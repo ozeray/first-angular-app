@@ -1,4 +1,5 @@
-// import { Component, computed, signal } from '@angular/core';
+//NEW WAY:
+// // import { Component, computed, signal } from '@angular/core';
 // import { DUMMY_USERS } from '../dummy-users';
 
 // const index = () => Math.floor(Math.random() * DUMMY_USERS.length);
